@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "ddhh0",
+      "name": "Robert",
+      "email": "robert@gmail.com",
+      "username": "robertA"
+    },
+    {
+      "id": "f8fe",
+      "name": "Renata",
+      "email": "renatazbv@gmail.com",
+      "username": "rina"
+    },
+    {
+      "id": "a88e",
+      "name": "Renata",
+      "email": "renatazbv@gmail.com",
+      "username": "rina"
+    },
+    {
+      "id": "7728",
+      "name": "Renata",
+      "email": "renatazbv@gmail.com",
+      "username": "rina"
+    },
+    {
+      "id": "5525",
+      "name": "Renata",
+      "email": "renatazbv@gmail.com",
+      "username": "rina"
+    }
+  ]
+}
